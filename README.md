@@ -10,7 +10,7 @@
        technologies: {
           frontEnd:["JavaScript", "React", "Redux", "Node.js", "Html", "Css"]
           backEnd: {
-            technologies:["Sequelize", "Express", "Node.js"],
+            technologies: ["Sequelize", "Express", "Node.js"],
             dataBase: ["MySQL", "PostgreSQL"]
     	 }
     
