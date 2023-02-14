@@ -1,16 +1,20 @@
-### Hi there 👋
+### ¿Quieres saber un poco más sobre mí?
+```javascript
 
-<!--
-**gioh2020/gioh2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+    const aboutMe = {
+       pronouns: "he" | "him",
+       
+       code: [Javascript, Python],
+       
+       technologies: {
+          frontEnd:["JavaScript", "React", "Redux", "Node.js", "Html", "Css"]
+          backEnd: {
+            technologies :["Sequelize", "Express", "Node.js"],
+            dataBase: ["MySQL", "PostgreSQL"]
+    	 }
+    
+       currentOccupation: ["last month student, open for job opportunities"]
+    };
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
