@@ -4,7 +4,7 @@
 
     const aboutMe = {
        pronouns: "he" | "him",
-       country: ["Bogota", "Colombia"]
+       country: ["Bogota", "Colombia"],
        mail: "gioh2020@gmail.com",
        Mobil: "+57-3016444226"
        
@@ -12,7 +12,7 @@
        code: [Javascript, Python],
        
        technologies: {
-          frontEnd:["JavaScript", "React", "Redux", "Node.js", "Html", "Css"]
+          frontEnd:["JavaScript", "React", "Redux", "Node.js", "Html", "Css"],
           backEnd: {
             technologies: ["Sequelize", "Express", "Node.js"],
             dataBase: ["MySQL", "PostgreSQL"]
