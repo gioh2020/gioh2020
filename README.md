@@ -5,8 +5,8 @@
     const aboutMe = {
        pronouns: "he" | "him",
        country: ["Bogota", "Colombia"]
-       mail: gioh2020@gmail.com,
-       Mobil: +57 3016444226
+       mail: "gioh2020@gmail.com",
+       Mobil: "+57-3016444226"
        
        
        code: [Javascript, Python],
@@ -18,7 +18,7 @@
             dataBase: ["MySQL", "PostgreSQL"]
     	 }
     
-       currentOccupation: ["last month student, open for job opportunities"]
+       currentOccupation: ["Open for job opportunities"]
     };
 
 ```
