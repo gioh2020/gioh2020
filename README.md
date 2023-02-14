@@ -20,4 +20,4 @@
 ```
 
 ### Contacto
-[linkedin](https://www.linkedin.com/in/ngvb")
+[linkedin](https://www.linkedin.com/in/ngvb/")
