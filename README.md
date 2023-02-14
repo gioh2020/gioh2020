@@ -6,7 +6,7 @@
        pronouns: "he" | "him",
        country: ["Bogota", "Colombia"],
        mail: "gioh2020@gmail.com",
-       Mobil: "+57-3016444226"
+       Mobil: "+57-3016444226",
        
        
        code: [Javascript, Python],
