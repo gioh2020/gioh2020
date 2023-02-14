@@ -20,4 +20,4 @@
 ```
 
 ### Contacto
-[linkedin](https://github.com/pandao/editor.md "Heading link](https://www.linkedin.com/in/ngvb")
+[linkedin](https://www.linkedin.com/in/ngvb")
