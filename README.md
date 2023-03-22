@@ -26,3 +26,5 @@
 ### Contacto
 ## [Portafolio](https://gioh2020.github.io/)
 ## [linkedin](https://www.linkedin.com/in/ngvb)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gioh2020)](https://github.com/anuraghazra/github-readme-stats)
