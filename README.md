@@ -9,12 +9,12 @@
        Mobil: "+57-3016444226",
        
        
-       code: [Javascript, Python],
+       code: [Javascript, C#],
        
        technologies: {
-          frontEnd:["JavaScript", "React", "Redux", "Node.js", "Html", "Css"],
+          frontEnd:["JavaScript", "Angular", "React", "Redux", "Node.js", "Html", "Css"],
           backEnd: {
-            technologies: ["Sequelize", "Express", "Node.js"],
+            technologies: [".Net", "Sequelize", "Express", "Node.js"],
             dataBase: ["MySQL", "PostgreSQL"]
     	 }
     
