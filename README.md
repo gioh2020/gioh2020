@@ -12,7 +12,7 @@
        code: [Javascript, C#],
        
        technologies: {
-          frontEnd:["JavaScript", "Angular", "React", "Redux", "Node.js", "Html", "Css"],
+          frontEnd:["JavaScript", "Angular", "React", "Node.js", "Html", "Css"],
           backEnd: {
             technologies: [".Net", "Express"],
             dataBase: ["MySQL", "PostgreSQL"]
